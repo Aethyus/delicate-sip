@@ -33,6 +33,10 @@ dependencies {
 	modImplementation libs.mmodding
 }
 
+fabricApi {
+	configureDataGeneration()
+}
+
 loom {
 	mods {
 		"delicate_sip" {
@@ -59,6 +63,7 @@ mmodding {
 		environment = EnvironmentTarget.ANY
 		withEntrypoints {
 			it.init("com.mmodding.ds.DelicateSip")
+			it.custom("fabric-datagen", "com.mmodding.ds.DelicateSipDataGenerator")
 		}
 		addMixin("delicate_sip.mixins.json")
 		withDependencies {
