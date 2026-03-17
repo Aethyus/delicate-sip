@@ -4,12 +4,24 @@ import com.mmodding.ds.init.DelicateSipBlocks;
 import com.mmodding.library.core.api.AdvancedContainer;
 import com.mmodding.library.core.api.ExtendedModInitializer;
 import com.mmodding.library.core.api.management.ElementsManager;
+import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.registry.Registries;
+import net.minecraft.registry.Registry;
+import net.minecraft.text.Text;
+import net.minecraft.util.Identifier;
 
 import java.util.Set;
 
 public class DelicateSip implements ExtendedModInitializer {
 
 	public static final Set<String> WOOD_SETS = Set.of("acacia", "bamboo", "birch", "cherry", "dark_oak", "mangrove", "oak", "pale_oak", "spruce");
+
+	public static final ItemGroup ITEM_GROUP = FabricItemGroup.builder()
+			.displayName(Text.of("Delicate Sip"))
+			.icon(() -> Registries.ITEM.get(Identifier.of("delicate_sip", "acacia_lattice")).getDefaultStack())
+			.entries((ctx, entries) -> Registries.ITEM.stream().filter(item -> Registries.ITEM.getId(item).getNamespace().equals("delicate_sip")).forEachOrdered(entries::add))
+			.build();
 
 	@Override
 	public void setupManager(ElementsManager manager) {
@@ -19,5 +31,7 @@ public class DelicateSip implements ExtendedModInitializer {
 	@Override
 	public void onInitialize(AdvancedContainer mod) {
 		mod.logger().info("Shaping the world with a Delicate Sip of your imagination!");
+
+		Registry.register(Registries.ITEM_GROUP, Identifier.of("delicate_sip", "item_group"), DelicateSip.ITEM_GROUP);
 	}
 }
