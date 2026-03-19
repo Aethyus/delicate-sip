@@ -6,7 +6,7 @@ plugins {
 	alias libs.plugins.mmodding.gradle
 }
 
-version = project.mod_version
+version = "$project.mod_version+${libs.versions.minecraft.get()}"
 group = project.maven_group
 
 base {

@@ -6,6 +6,10 @@
   "block.delicate_sip.birch_lattice": "Birch Lattice",
   "block.delicate_sip.birch_parquet": "Birch Parquet",
   "block.delicate_sip.black_marble": "Black Marble",
+  "block.delicate_sip.black_marble_button": "Black Marble Button",
+  "block.delicate_sip.black_marble_pressure_plate": "Black Marble Pressure Plate",
+  "block.delicate_sip.black_marble_slab": "Black Marble Slab",
+  "block.delicate_sip.black_marble_stairs": "Black Marble Stairs",
   "block.delicate_sip.cherry_lattice": "Cherry Lattice",
   "block.delicate_sip.cherry_parquet": "Cherry Parquet",
   "block.delicate_sip.cut_acacia_block": "Cut Acacia Block",
@@ -26,5 +30,15 @@
   "block.delicate_sip.pale_oak_lattice": "Pale Oak Lattice",
   "block.delicate_sip.pale_oak_parquet": "Pale Oak Parquet",
   "block.delicate_sip.spruce_lattice": "Spruce Lattice",
-  "block.delicate_sip.spruce_parquet": "Spruce Parquet"
+  "block.delicate_sip.spruce_parquet": "Spruce Parquet",
+  "block.delicate_sip.verdant_marble": "Verdant Marble",
+  "block.delicate_sip.verdant_marble_button": "Verdant Marble Button",
+  "block.delicate_sip.verdant_marble_pressure_plate": "Verdant Marble Pressure Plate",
+  "block.delicate_sip.verdant_marble_slab": "Verdant Marble Slab",
+  "block.delicate_sip.verdant_marble_stairs": "Verdant Marble Stairs",
+  "block.delicate_sip.white_marble": "White Marble",
+  "block.delicate_sip.white_marble_button": "White Marble Button",
+  "block.delicate_sip.white_marble_pressure_plate": "White Marble Pressure Plate",
+  "block.delicate_sip.white_marble_slab": "White Marble Slab",
+  "block.delicate_sip.white_marble_stairs": "White Marble Stairs"
 }

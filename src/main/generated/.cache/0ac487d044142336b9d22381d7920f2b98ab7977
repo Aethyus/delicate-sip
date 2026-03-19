@@ -1,4 +1,4 @@
-// 1.20.1	2026-03-17T19:45:00.8772727	Delicate Sip/Model Definitions
+// 1.20.1	2026-03-19T11:40:23.1383688	Delicate Sip/Automated Model Definitions
 b15195ccbf7e69f070c2c50331404a166f481b7f assets\delicate_sip\models\item\oak_parquet.json
 c98f78e00f77065a00c40ab0581ca912f25c4cb8 assets\delicate_sip\models\item\cut_birch_block.json
 0d26b17251a8c1fd577d7301a3063ca0edb5c541 assets\delicate_sip\models\block\cut_oak_block.json
@@ -16,7 +16,6 @@ c14fc928d740334c4263e8fb1cc35d7a800930f7 assets\delicate_sip\models\block\cut_pa
 e59601fdefdaa101c9367c9a11d5c5412416e3fc assets\delicate_sip\blockstates\cherry_lattice.json
 1abdf0785c43adc9e0338aea8b4d9b7621ec8ea9 assets\delicate_sip\models\block\spruce_lattice.json
 650019c7a5da0bb6a2e8aeb3954663761f875297 assets\delicate_sip\models\block\cherry_parquet.json
-22f15c28678ab59b05b9dd0ce4de19d3f2cdaace assets\delicate_sip\models\block\black_marble.json
 ec3c03c6006e9b4d76bf543f96753d84c8edf837 assets\delicate_sip\models\block\bamboo_lattice.json
 999ca507f93fc366087019d1f0c1ecc53bb56d75 assets\delicate_sip\models\item\spruce_parquet.json
 180f2b8f4056afe5b000b87868fafc975dd238a7 assets\delicate_sip\models\item\cut_bamboo_block.json
@@ -27,7 +26,6 @@ e5a9035c46897b837b630e22d5e9a6f555c045a1 assets\delicate_sip\models\item\cherry_
 1cba6b9cec9c3f8be58d83c76e2d1bdd605a2a78 assets\delicate_sip\models\block\cut_bamboo_block.json
 3f1376becc735ad522df17e5f4035537aa98529c assets\delicate_sip\models\block\mangrove_lattice.json
 892efde343ac6dd60e2b570314bd5bbdc4eef198 assets\delicate_sip\models\item\dark_oak_lattice.json
-a11e2dfcf06b0f149e1c0b6ff6fe441cea5c0651 assets\delicate_sip\models\item\black_marble.json
 34bc7218a0260d604d7b417fc17473c5e87a0d9a assets\delicate_sip\models\item\pale_oak_lattice.json
 0c5c26550ab2e50c332e28b845f54883ba72c5c9 assets\delicate_sip\models\block\oak_lattice.json
 0aea7d70f294d2d25c3e154f76d3bfe96ac74bc7 assets\delicate_sip\blockstates\cut_spruce_block.json
@@ -37,7 +35,6 @@ f54c315db78da0e9e6b2faac6654809f11530cd1 assets\delicate_sip\blockstates\cut_bir
 1dd32154b407c70a4cb3fb6b4d90c5d3db5edcda assets\delicate_sip\blockstates\bamboo_parquet.json
 bea9e863c01587bb602ba510cd9db79bfafbb57a assets\delicate_sip\models\block\cut_spruce_block.json
 3b586a670e5c637e7417d6cb99a42da7ea7d4973 assets\delicate_sip\models\block\acacia_lattice.json
-14415eb88540b574695319835fa8dcc22a41db2c assets\delicate_sip\blockstates\black_marble.json
 ce6e0d1d7e50d685684537de8cc5a38201f2f633 assets\delicate_sip\blockstates\spruce_parquet.json
 1ac667fed5fe1ebcb3091f21fc7b2a78c472d283 assets\delicate_sip\models\block\spruce_parquet.json
 1d75593de0f8aaded1e55279226d7eda0638f7f3 assets\delicate_sip\models\block\bamboo_parquet.json

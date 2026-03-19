@@ -34,4 +34,8 @@ public class DelicateSip implements ExtendedModInitializer {
 
 		Registry.register(Registries.ITEM_GROUP, Identifier.of("delicate_sip", "item_group"), DelicateSip.ITEM_GROUP);
 	}
+
+	public static Identifier createId(String path) {
+		return Identifier.of("delicate_sip", path);
+	}
 }
