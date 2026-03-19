@@ -1,4 +1,4 @@
-// 1.20.1	2026-03-19T11:40:23.1383688	Delicate Sip/Automated Model Definitions
+// 1.20.1	2026-03-19T12:37:44.2249297	Delicate Sip/Automated Model Definitions
 b15195ccbf7e69f070c2c50331404a166f481b7f assets\delicate_sip\models\item\oak_parquet.json
 c98f78e00f77065a00c40ab0581ca912f25c4cb8 assets\delicate_sip\models\item\cut_birch_block.json
 0d26b17251a8c1fd577d7301a3063ca0edb5c541 assets\delicate_sip\models\block\cut_oak_block.json
@@ -37,8 +37,8 @@ bea9e863c01587bb602ba510cd9db79bfafbb57a assets\delicate_sip\models\block\cut_sp
 3b586a670e5c637e7417d6cb99a42da7ea7d4973 assets\delicate_sip\models\block\acacia_lattice.json
 ce6e0d1d7e50d685684537de8cc5a38201f2f633 assets\delicate_sip\blockstates\spruce_parquet.json
 1ac667fed5fe1ebcb3091f21fc7b2a78c472d283 assets\delicate_sip\models\block\spruce_parquet.json
-1d75593de0f8aaded1e55279226d7eda0638f7f3 assets\delicate_sip\models\block\bamboo_parquet.json
 b9dccb4b3a6b576602d99e0bdc52ed29dd2481a6 assets\delicate_sip\models\item\acacia_parquet.json
+1d75593de0f8aaded1e55279226d7eda0638f7f3 assets\delicate_sip\models\block\bamboo_parquet.json
 63ba83938a52ac5b65675c2b9ff81364ce01a440 assets\delicate_sip\models\block\cut_cherry_block.json
 aeffa29de32be00cb9e24c5fe5fdd451c6ae9d8b assets\delicate_sip\blockstates\birch_lattice.json
 4c2f7c939d023ab30ec2b939ac1fd9745954143c assets\delicate_sip\blockstates\cut_acacia_block.json
@@ -78,5 +78,5 @@ c6ebd7134059d6baa7f241302614a0dfaaa90fdc assets\delicate_sip\models\item\bamboo_
 03e0a33521d099a569ab256e6a659f27cf571b06 assets\delicate_sip\models\item\cut_pale_oak_block.json
 11c6f76a2b88ab0e0174359f7a4d2d4ae1a3befa assets\delicate_sip\models\item\cut_cherry_block.json
 fc17c1c1f5127300097ef463d8be4f6d5980cd93 assets\delicate_sip\models\item\cut_oak_block.json
-2d218a1ee3e7e27228c14a20bef0f992a8a298f7 assets\delicate_sip\models\block\dark_oak_lattice.json
 0a78ac0b5c54396250a4d43ed169296785c19fed assets\delicate_sip\models\item\cut_acacia_block.json
+2d218a1ee3e7e27228c14a20bef0f992a8a298f7 assets\delicate_sip\models\block\dark_oak_lattice.json
